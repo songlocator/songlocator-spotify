@@ -1,0 +1,11 @@
+{
+  "name": "songlocator-spotify",
+  "version": "0.1.0",
+  "description": "SongLocator resolver for Spotify",
+  "tags": ["songlocator", "api", "music", "streaming", "audio", "resolver", "spotify"],
+  "author": "Andrey Popp <8mayday@gmail.com>",
+  "main": ["./songlocator-spotify.js"],
+  "dependencies": {
+    "songlocator-base": "~0.1.1"
+  }
+}
